@@ -5,11 +5,12 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 export default function Hero() {
   return (
-    <div className="w-[1440px] h-[660px] flex justify-between items-center pt-[100px] px-8 relative top-[92px]">
+    <div className="w-[1440px] h-[656.39px] flex justify-between items-center py-[100px] px-8 top-[92px] bg-[#043873] bg-[url('../../public/element.png')] bg-center bg-no-repeat">
       <div className="flex flex-col w-[691px] h-[361px] gap-[10px] justify-center mt-10">
         <h2 className="w-[691px] h-[154px] text-[64px] text-justify text-white font-semibold leading-[78px]">
           Get More Done with <br /> whitepace
         </h2>
+        
         <p className="text-[18px] text-white text-justify">
           Project management software that enables your teams to collaboration, plan, analyze <br /> and manage everyday tasks
         </p>
@@ -21,7 +22,7 @@ export default function Hero() {
             />
         </button>
       </div>
-      <div className="box bg-[#c4defd] w-[685px] h-[460px]">
+      <div className="box bg-[#c4defd] w-[685px] h-[460px] mt-6">
         
       </div>
     </div>

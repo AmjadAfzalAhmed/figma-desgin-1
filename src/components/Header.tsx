@@ -7,7 +7,7 @@ import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
 export default function Header() {
   return (
-    <header className="fixed w-full h-[92px] bg-transparent flex items-center space-between py-4 px-8">
+    <header className="fixed bg-[#043873] w-[1440px] h-[92px] flex items-center space-between py-4 px-8">
       <div>
         <Image
           src={logo}
