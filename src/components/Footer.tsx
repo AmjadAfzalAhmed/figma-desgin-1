@@ -45,7 +45,8 @@ const Footer = () => {
               className="relative w-3 h-3 ml-2 cursor-pointer"
             />
         </button>        
-      </div>      
+      </div>
+            
     </div>
    
   );
