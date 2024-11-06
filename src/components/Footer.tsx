@@ -1,7 +1,6 @@
-import React from "react";
+
 import Image from "next/image";
 import logo from "../../public/logo.png";
-// import line from '../../public/Line 2.png'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faArrowRight } from "@fortawesome/free-solid-svg-icons";
 
